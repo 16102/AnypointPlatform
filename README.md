@@ -8,6 +8,6 @@ The virtual intership focused on two things:
    
    [GithHub link to AmericanFlightsAPI](https://github.com/16102/AnypointPlatform/tree/main/Mule%20Applications)  
    
-3.  Building Mule Applications with Anypoint Platform
+2.  Building Mule Applications with Anypoint Platform
 
    [GitHub link to Mulesoft Applications](https://github.com/16102/AnypointPlatform/tree/main/Mule%20Applications)

@@ -45,7 +45,16 @@
 
 <img width="370" alt="Screenshot 2023-09-06 004555" src="https://github.com/16102/AnypointPlatform/assets/92366931/0511c731-578a-467a-b961-9a842ae87dd1">
 <img width="370" alt="Screenshot 2023-09-06 004124" src="https://github.com/16102/AnypointPlatform/assets/92366931/e1b3b6ae-6567-4d6c-8cd1-39de46e672c3">
-<img width="370" alt="Screenshot 2023-09-06 005339" src="https://github.com/16102/AnypointPlatform/assets/92366931/6fc511bf-a482-4685-918b-a0253764e9f6">
+<img width="370" alt="Screenshot 2023-09-06 005339" src="https://github.com/16102/AnypointPlatform/assets/92366931/6fc511bf-a482-4685-918b-a0253764e9f6">  
+---  
+
+6. **Processing Records**
+---  
+
+<img width="370" alt="Screenshot 2023-09-06 010411" src="https://github.com/16102/AnypointPlatform-MulesoftVirtualInternship/assets/92366931/bbfda4b6-b4b0-4292-b058-9cdf80055540"><img width="370" alt="Screenshot 2023-09-06 133027" src="https://github.com/16102/AnypointPlatform-MulesoftVirtualInternship/assets/92366931/5163d7c9-a45e-4a69-a276-3a0bbc3dc4dd"><img width="370" alt="Screenshot 2023-09-06 133402" src="https://github.com/16102/AnypointPlatform-MulesoftVirtualInternship/assets/92366931/8dd6480f-38a3-47e8-83ee-27ea34bb5d31"><img width="370" alt="Screenshot 2023-09-06 132334" src="https://github.com/16102/AnypointPlatform-MulesoftVirtualInternship/assets/92366931/9be69f30-29e5-4908-8414-8b2820e351d7">
+
+
+
 
 
 

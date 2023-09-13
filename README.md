@@ -6,7 +6,7 @@ This intership aimed at providing hands-on experience using Anypoint Platform™
 The virtual intership focused on two things:  
 1.  Use of Anypoint Platform to discover, design, build, deploy, manage, and govern APIs.
    
-   [GithHub link to AmericanFlightsAPI]([https://github.com/16102/AnypointPlatform/tree/main/Mule%20Applications](https://github.com/16102/AnypointPlatform-MulesoftVirtualInternship/tree/main/AmericanFlightsAPI))  
+   [GithHub link to AmericanFlightsAPI](https://github.com/16102/AnypointPlatform-MulesoftVirtualInternship/tree/main/AmericanFlightsAPI)  
    
 2.  Building Mule Applications with Anypoint Platform
 
